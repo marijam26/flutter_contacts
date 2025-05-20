@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 33
+    namespace 'com.lukasgit.flutter_contacts'
 
     defaultConfig {
         minSdkVersion 23
